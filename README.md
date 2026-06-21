@@ -1,2 +1,14 @@
 # pitchleyu-lab
-HTML page archive and documentation
+
+资料页面发布仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
